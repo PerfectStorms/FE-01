@@ -12,7 +12,7 @@
 
 ![Adding content tags](https://sun9-58.userapi.com/0wt1zan-1RY7KJQ-uYeBavaoDhT3b2SK7F9SpQ/uvQw33F61aM.jpg)
 
-6. <div> layout. + Styles: inline, header like and using link tag.
-7. Approaches to image placements. <img>, <div> and <svg>.
+6. `<div>` layout. + Styles: inline, header like and using link tag.
+7. Approaches to image placements. `<img>`, `<div>` and `<svg>`.
 8. Alternative to images. Creating simple shapes using div blocks and style sheets.
 9. Creating dynamics in css. :hover, :active, @key-frames
